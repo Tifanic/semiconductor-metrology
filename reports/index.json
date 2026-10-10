@@ -1,8 +1,4 @@
 [
-  {
-    "date": "2026-10-10",
-    "title": "白光干涉 VSI/PSI 重建：三个优先验证的工程问题",
-    "summary": "Hilbert 包络、带通滤波与 VSI/PSI 融合的工程验证方案（首期技术专题）",
-    "path": "reports/2026-10-10.html"
-  }
+  {"date":"2026-10-11","title":"半导体量测技术日报｜2026-10-11","summary":"抗振干涉、TSV、工业OCT、晶圆翘曲和薄膜检测","path":"reports/2026-10-11.html"},
+  {"date":"2026-10-10","title":"白光干涉 VSI/PSI 重建：三个优先验证的工程问题","summary":"Hilbert 包络、带通滤波与 VSI/PSI 融合的工程验证方案（首期技术专题）","path":"reports/2026-10-10.html"}
 ]
